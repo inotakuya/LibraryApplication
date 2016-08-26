@@ -23,24 +23,7 @@ LibraryApplication起動方法
 * SpringIntroBook/Ch5/LibraryApplicationをダウンロード
 * index.htmlをブラウザで開く
 
-amqpApplication起動方法
-------
-* SpringIntroBook/Ch5/amqpをダウンロード
-* mongoDBを起動
 
-```mongoDb
-% mongod
-```
-
-* サーバーを起動(別のコマンドプロンプト）
-
-```node
-% node server.js
-```
-
-* サーバーにアクセス
-
-[http://localhost:9100](http://localhost:9100)
 
 lombok導入手順
 ------
