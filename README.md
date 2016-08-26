@@ -1,6 +1,6 @@
 LibraryApplication起動方法
 ------
-* SpringIntroBook/Ch4/SpringBoot/LibraryApplicationをダウンロード
+* LibraryApplication_Javaをダウンロード
 * アプリケーションを起動
 
 #### 【STSの場合】
@@ -20,7 +20,7 @@ LibraryApplication起動方法
 % java -jar build/libs/LibraryApplication-0.0.1-SNAPSHOT.jar
 ```
 
-* SpringIntroBook/Ch5/LibraryApplicationをダウンロード
+* LibraryApplication_JavaScriptをダウンロード
 * index.htmlをブラウザで開く
 
 
