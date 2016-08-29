@@ -1,5 +1,4 @@
 /*
- * All Rights Reserved by Athenaeum Society 2015-
  * Written by Inotakuya
  */
 package com.as.springbook.web;
